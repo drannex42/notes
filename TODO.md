@@ -4,4 +4,5 @@
 - Read Lord of the Flies (all)
 - Spanish Paragraphs - conjugate
 - Mousetrap Car
+- 50 more notes for English. 
 
