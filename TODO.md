@@ -6,4 +6,4 @@
 - 50 more notes for English. 
 - Skype Him 
 	- Programs (ArrayCreator, CompareTo, Letter) - **READ JAVA BOOK**
-
+- Call fucker
