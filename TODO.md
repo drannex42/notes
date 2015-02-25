@@ -5,5 +5,5 @@
 - Spanish Paragraphs - conjugate
 - Mousetrap Car
 - 50 more notes for English. 
-- Programs (ArrayCreator, CompareTo, Letter)
+- Programs (ArrayCreator, CompareTo, Letter) - **READ JAVA BOOK**
 
