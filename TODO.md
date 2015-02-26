@@ -2,6 +2,7 @@
 - Study AWPWH - Chaper 20/21 
 - Skype Him 
 	- Programs (ArrayCreator, CompareTo, Letter) - **READ JAVA BOOK**
+- Spanish HW Set #1
 
 ## February 25th
 
